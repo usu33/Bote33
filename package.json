@@ -10,7 +10,8 @@
         "winston": "^3.2.1",
         "discord.js": "^11.5.1",
         "papaparse": "^5.2.0",
-        "ytdl-core": "^2.1.7"
+        "ytdl-core": "^2.1.7",
+        "ytsearcher": "^1.2.3"
 
     },
   "devDependencies": {},
